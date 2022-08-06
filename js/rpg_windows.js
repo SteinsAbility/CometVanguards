@@ -2586,7 +2586,7 @@ Window_Status.prototype.drawBasicInfo = function(x, y) {
     this.drawActorLevel(this._actor, x, y + lineHeight * 0);
     this.drawActorIcons(this._actor, x, y + lineHeight * 1);
     this.drawActorHp(this._actor, x, y + lineHeight * 2);
-    this.drawActorMp(this._actor, x, y + lineHeight * 3);
+    //this.drawActorMp(this._actor, x, y + lineHeight * 3);
 };
 
 Window_Status.prototype.drawParameters = function(x, y) {

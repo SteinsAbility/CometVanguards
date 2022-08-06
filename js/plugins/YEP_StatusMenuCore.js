@@ -837,7 +837,10 @@ Window_StatusInfo.prototype.drawGeneralParam = function() {
 		text = Yanfly.Util.toGroup(this._actor.level);
 		this.drawText(text, dx, rect.y, dw, 'right');
     for (var i = 0; i < 8; ++i) {
-      if (i < 2) {
+      if (i === 1) {
+        continue;
+      }
+      else if (i < 2) {
         rect.y += this.lineHeight();
       } else if (i === 2) {
         rect.y += this.lineHeight();
