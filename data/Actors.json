@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"Lira","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ScifiMain","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lira Zukunshoff","nickname":"Lira","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$Lira","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lira","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lira Zukunshoff","nickname":"Lira","note":"","profile":""}
 ]
