@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"testChar1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"testFace1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Protagonist","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Futuristic-1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"ScifiMain","traits":[],"initialLevel":1,"maxLevel":1,"name":"Protagonist","nickname":"","note":"","profile":""}
 ]
