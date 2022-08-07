@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MessHall","order":14,"parentId":19,"scrollX":540.6666666666666,"scrollY":418},
+{"id":1,"expanded":true,"name":"MessHall","order":14,"parentId":19,"scrollX":540.6666666666666,"scrollY":378},
 {"id":2,"expanded":true,"name":"CargoHold","order":2,"parentId":5,"scrollX":546,"scrollY":302},
 {"id":3,"expanded":false,"name":"Greenhouse","order":8,"parentId":20,"scrollX":546,"scrollY":302},
 {"id":4,"expanded":true,"name":"PQ Right","order":11,"parentId":13,"scrollX":546,"scrollY":302},
@@ -16,11 +16,11 @@ null,
 {"id":14,"expanded":false,"name":"SickBay","order":10,"parentId":13,"scrollX":546,"scrollY":302},
 {"id":15,"expanded":false,"name":"Lab","order":17,"parentId":19,"scrollX":1577.5,"scrollY":646},
 {"id":16,"expanded":false,"name":"ObservationDeck","order":5,"parentId":6,"scrollX":546,"scrollY":302},
-{"id":17,"expanded":true,"name":"Kitchen","order":15,"parentId":1,"scrollX":1577.5,"scrollY":646},
-{"id":18,"expanded":false,"name":"Laundry","order":16,"parentId":1,"scrollX":1577.5,"scrollY":646},
-{"id":19,"expanded":true,"name":"MainHall","order":6,"parentId":6,"scrollX":540.6666666666666,"scrollY":302},
+{"id":17,"expanded":true,"name":"Kitchen","order":15,"parentId":1,"scrollX":546,"scrollY":302},
+{"id":18,"expanded":false,"name":"Laundry","order":16,"parentId":1,"scrollX":546,"scrollY":302},
+{"id":19,"expanded":true,"name":"MainHall","order":6,"parentId":6,"scrollX":540.6666666666666,"scrollY":595.3333333333334},
 {"id":20,"expanded":true,"name":"SideHall","order":7,"parentId":19,"scrollX":546,"scrollY":302},
 null,
 {"id":22,"expanded":true,"name":"PQ Mid","order":12,"parentId":13,"scrollX":546,"scrollY":302},
-{"id":23,"expanded":true,"name":"PQ Left","order":13,"parentId":13,"scrollX":1577.5,"scrollY":646}
+{"id":23,"expanded":true,"name":"PQ Left","order":13,"parentId":13,"scrollX":546,"scrollY":302}
 ]
